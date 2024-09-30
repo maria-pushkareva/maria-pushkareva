@@ -5,7 +5,7 @@ I'm currently working in AspenTech.
 ***
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,styledcomponents,cypress)](https://skillicons.dev)
 
-![Code wars](https://www.codewars.com/users/de-euforie/badges/micro)
+[![Code wars](https://www.codewars.com/users/de-euforie/badges/micro)](https://www.codewars.com/users/de-euforie)
 <!--
 **maria-pushkareva/maria-pushkareva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
