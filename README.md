@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I am a front-end developer located in Eindhoven, The Netherlands.
-I'm currently working in AspenTech.
 ***
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,styledcomponents,cypress)](https://skillicons.dev)
 
